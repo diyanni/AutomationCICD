@@ -1,0 +1,24 @@
+# Created at 2024-08-14T19:10:30.933
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2024-08-14T19:10:31.106
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# There is insufficient memory for the Java Runtime Environment to continue.'.
+
+# Created at 2024-08-14T19:10:31.110
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# Native memory allocation (malloc) failed to allocate 1654944 bytes for Chunk::new'.
+
+# Created at 2024-08-14T19:10:31.119
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# An error report file with more information is saved as:'.
+
+# Created at 2024-08-14T19:10:31.179
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# C:\Users\divya\eclipse-workspace\SeleniumFrameworkDesign\hs_err_pid86040.log'.
+
+# Created at 2024-08-14T19:10:31.181
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2024-08-14T19:10:31.183
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# Compiler replay data is saved as:'.
+
+# Created at 2024-08-14T19:10:31.352
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# C:\Users\divya\eclipse-workspace\SeleniumFrameworkDesign\replay_pid86040.log'.
+

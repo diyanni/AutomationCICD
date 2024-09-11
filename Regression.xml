@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite  parallel = "tests" name="Suite">
+<listeners>
+<listener class-name="rahulshettyacademy.TestComponent.Listeners"/>
+</listeners>
+
+  <test thread-count="5" name="SubmitOrderTest">
+    <classes>
+      <class name="rahulshettyacademy.tests.SubmitOrderTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+   <test thread-count="5" name="ErrorValidationsTests">
+    <classes>
+      <class name="rahulshettyacademy.tests.ErrorValidationsTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  
+</suite> <!-- Suite -->
